@@ -27,6 +27,3 @@ This section contains the models to be added to the leaderboard.  If you are sub
 
 ## Model 2
 ...
-
-# Model Zoo
-- [ ] I want to add my models to the Model Zoo
