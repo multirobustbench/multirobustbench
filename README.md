@@ -1,6 +1,7 @@
 # MultiRobustBench: Benchmarking Robustness Against Multiple Attacks
 
 **Leaderboard:** https://multirobustbench.github.io
+**Paper:** https://arxiv.org/abs/2302.10980
 
 ## What is MultiRobustBench?
 MultiRobustBench is a benchmark for evaluating progress in multiattack robustness.  While the bulk of research in adversarial ML focuses on robustness against specific perturbation types(mainly Lp bounded attacks), in practice, we would like our models to be robust against a wide variety of perturbations.  The goal of MultiRobustBench is to provide researchers with a standardized evaluation procedure for defenses against multiple attacks, allowing researchers to understand the current state of multiattack robustness and diagnose weaknesses of existing defenses (through performance visualizations available on the leaderboard site).
